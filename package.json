@@ -1,0 +1,23 @@
+{
+  "name": "is_demo_project",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ber-08/IS_Demo_Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ber-08/IS_Demo_Project/issues"
+  },
+  "homepage": "https://github.com/Ber-08/IS_Demo_Project#readme",
+  "description": "",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
